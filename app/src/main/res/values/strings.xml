@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Todo</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_messages">Messages</string>
+    <string name="title_tasks">Tasks</string>
+    <string name="title_jobs">Jobs</string>
+    <string name="title_progress">Progress</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="task_document_link"><u>Document Link &#8594;</u></string>
+    <string name="task_link_to_design"><u>Link to design &#8594;</u></string>
+    <string name="task_project_link"><u>Project Link &#8594;</u></string>
+    <string name="task_guna">Guna</string>
+</resources>
